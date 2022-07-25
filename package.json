@@ -1,0 +1,20 @@
+{
+  "name": "mount-digital-solution",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melashu/Mount-Digital-Solution.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melashu/Mount-Digital-Solution/issues"
+  },
+  "homepage": "https://github.com/melashu/Mount-Digital-Solution#readme"
+}
