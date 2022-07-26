@@ -1,0 +1,43 @@
+.menu-icon {
+  display: none;
+}
+.top-header {
+  display: flex;
+  justify-content: flex-end;
+  column-gap: 24px;
+}
+
+.top-header a {
+  text-decoration: none;
+  color: #fff;
+  font-family: "Lato", sans-serif;
+}
+
+header {
+  background-color: #fff;
+}
+
+.nav-bar {
+  display: flex;
+  justify-content: space-around;
+}
+
+.nav-menu {
+  display: flex;
+  column-gap: 80px;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-menu a {
+  text-decoration: none;
+  color: #5c5c5c;
+  font-family: "Lato", sans-serif;
+  font-size: 1.25em;
+  font-weight: 700;
+}
+
+.nav-menu-cc {
+  border: 5px solid #ec5242;
+  padding: 8px;
+}
