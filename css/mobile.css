@@ -19,7 +19,6 @@ ul {
 }
 
 .headline-section {
-  height: 100vh;
   background-image: url("../image/mob-bac.png");
   background-size: cover;
   padding: 0 24px;
@@ -68,5 +67,71 @@ ul {
    color: #5c5c5c;
   line-height: 1.5;
   letter-spacing: 0.03em;
-
 }
+
+.main-program-section{
+  background-color: #272a32;
+  background-image: url('../image/program-back.png');
+  padding: 24px;
+  background-size: fill;
+  color: #fff;
+  line-height: 1.5;
+  display: grid;
+  }
+.main-program-title-container{
+  margin: 24px auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  row-gap: 8px;
+}
+
+main-program-title{
+  font-size: 1.5em;
+  line-height: 1.5;
+  letter-spacing: 0.03em;
+}
+
+.divider{
+  background-color: #ec5242;
+  height: 3px;
+  width: 100px;
+}
+
+.main-program{
+  display: grid;
+  row-gap: 24px;
+}
+
+.program{
+  display: flex;
+  column-gap: 24px;
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 24px;
+  justify-content: center;
+  align-items: center;
+}
+
+.program img{
+  height: 100px;
+  width: 100px;
+}
+
+.btn-join{
+  margin: 24px auto;
+  padding: 20px;
+  width: 60vw;
+  background-color: #ec5242;
+  color: #fff;
+  font-family: "Lato", sans-serif;
+  line-height: 1.5;
+  font-size: 1.5em;
+  font-weight: 400;
+}
+
+.desk-see-whole{
+  display: none;
+}
+
+
