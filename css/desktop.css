@@ -41,3 +41,16 @@ header {
   border: 5px solid #ec5242;
   padding: 8px;
 }
+
+.headline-section{
+    padding: 100px;
+    background-image: url('../image/main-background-img.png');
+}
+
+.headline-title{
+    width: 40%;
+}
+
+.headline-description{
+    width: 60%;
+}
