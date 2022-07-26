@@ -1,3 +1,4 @@
+
 .menu-icon {
   display: none;
 }
@@ -12,6 +13,8 @@
   color: #fff;
   font-family: "Lato", sans-serif;
 }
+
+
 
 header {
   background-color: #fff;
@@ -82,8 +85,8 @@ header {
 }
 
 .program:hover {
-border: solid 2px #f7f7f7;
-cursor: pointer;;
+  border: solid 2px #f7f7f7;
+  cursor: pointer;
 }
 
 .btn-join {
@@ -96,3 +99,78 @@ cursor: pointer;;
   padding: 24px;
   color: #f7f7f7;
 }
+
+.product-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+  width: 70%;
+  margin: 24px auto;
+}
+
+.navbar {
+  width: 70%;
+  margin: 0 auto;
+  column-gap: 32px;
+  justify-content: center;
+}
+
+.abt-headline-section{
+background-image: url('../image/abt-back-me.png');
+}
+
+.abt-headline-greeting{
+    display: none;
+}
+
+.abt-headline-title{
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.abt-headline-description{
+    width: 50%;
+    margin: 0 auto;
+    font-size: 1.25em;
+}
+.logo-description{
+    width: 40%;
+    margin: 0 auto;
+}
+
+.abt-logo {
+    width: 30%;
+    margin: 0 auto;
+}
+.past-event-description{
+    width: 50%;
+    margin: 0 auto;
+}
+.abt-product-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.abt-product-container img{
+    width: 100%;
+}
+
+.partner{
+    display: none;
+}
+
+.footer-bottom{
+  background-color: #414246;
+  color: #fff;
+}
+.footer-bottom p{
+    width: 40%;
+}
+
+
+
+

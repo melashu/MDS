@@ -27,9 +27,8 @@ ul {
   display: none;
 }
 
-main{
+main {
   width: 100%;
-  
 }
 .headline-section {
   background-image: url("../image/mob-bac.png");
@@ -102,7 +101,7 @@ main{
 }
 
 .title {
-  font-family: "Lato", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 1.5em;
   line-height: 1.5;
@@ -112,7 +111,7 @@ main{
 .divider {
   background-color: #ec5242;
   height: 3px;
-  width: 100px;
+  width: 50px;
 }
 
 .main-program {
@@ -131,8 +130,8 @@ main{
 }
 
 .program img {
-  height: 100px;
-  width: 100px;
+  height: 50px;
+  width: 50px;
 }
 
 .program-title {
@@ -174,8 +173,8 @@ main{
 
 .product-title {
   font-size: 1.5em;
-  font-family: "COCOGOOSE", sans-serif;
-  font-weight: 400;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
   line-height: 1.5;
   letter-spacing: 0.03em;
 }
@@ -184,6 +183,7 @@ main{
   color: rgb(238, 68, 68);
   font-size: 1em;
   font-style: italic;
+  font-weight: 300;
 }
 
 .product-description {
@@ -191,11 +191,12 @@ main{
   line-height: 1.5;
   color: #5c5c5c;
   font-family: "Lato", sans-serif;
+  font-weight: 400;
 }
 
 .partner {
-  background-color: #272a31;
-  color: #fff;
+  background-color: #414246;
+  color: #a0a0a2;
   padding: 24px;
 }
 
@@ -213,15 +214,13 @@ main{
 .footer-bottom {
   display: flex;
   column-gap: 50px;
-  margin: 24px auto;
+  margin: 0 auto;
   padding: 24px;
   justify-content: center;
   align-items: center;
+  background-color: #f2f2f2;
 }
 
-.abt-headline-description {
-  background-color: #fff;
-}
 
 .abt-contact {
   font-size: 1em;
@@ -259,19 +258,19 @@ main{
   height: 2px;
 }
 
-.past-event{
- display: grid;
- row-gap: 24px;
- margin: 0 auto;
+.past-event {
+  display: grid;
+  row-gap: 24px;
+  margin: 0 auto;
 }
 
-.past-event-description{
- align-self: center;
- justify-self: center;
- width: 60%;
+.past-event-description {
+  align-self: center;
+  justify-self: center;
+  width: 60%;
 }
 
-.product-container{
+.product-container {
   display: grid;
   row-gap: 24px;
   width: 100%;
