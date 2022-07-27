@@ -335,9 +335,10 @@ main {
 .product-container {
   display: grid;
   row-gap: 24px;
-  width: 100%;
+  
 }
 
 .abt-product-container {
   margin: 24px 100px;
+  overflow-x: hidden;
 }
