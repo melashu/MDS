@@ -1,7 +1,7 @@
 const futureProduct = document.getElementById("future-product");
 const productList = [
   {
-    img: "../image/telebirrLogo.png",
+    img: "./image/telebirrLogo.png",
     imgAlt: "Telbirr",
     title: "TelBirr",
     catagory: "Finance and Mobile Money Transfer",
@@ -9,7 +9,7 @@ const productList = [
       "Telbirr is a mobile money platform it can handle as a mobile walet. Using telbirr you can transfer money from different bank",
   },
   {
-    img: "../image/alewaLogo.png",
+    img: "./image/alewaLogo.png",
     imgAlt: "Alewa Stock",
     title: "Alewa Stock",
     catagory: "Business Management",
@@ -17,7 +17,7 @@ const productList = [
       "Alewa Stock was design in 2021, it is a bussiness management platform",
   },
   {
-    img: "../image/sekelaLogo.png",
+    img: "./image/sekelaLogo.png",
     imgAlt: "Sekela",
     title: "Sekela",
     catagory: "E-commerece",
@@ -25,7 +25,7 @@ const productList = [
       "Sekela Commerece is a B2B and B2C platform, which connect buyers and sellers",
   },
   {
-    img: "../image/myethio.png",
+    img: "./image/myethio.png",
     imgAlt: "My-Ethiotel",
     title: "My-Ethiotel",
     catagory: "Telcom",
@@ -33,7 +33,7 @@ const productList = [
       "My-Ethiotel is designed in 2018, It is used to recharge mobile air time",
   },
   {
-    img: "../image/chat.png",
+    img: "./image/chat.png",
     imgAlt: "Let Chat",
     title: "Let Chat",
     catagory: "Social Media",
@@ -41,7 +41,7 @@ const productList = [
       "Let Chat is a social media platform, which can interconnect people arround the glob",
   },
   {
-    img: "../image/fidle.png",
+    img: "./image/fidle.png",
     imgAlt: "Fidle",
     title: "Fidle",
     catagory: "Education",
