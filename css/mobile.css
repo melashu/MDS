@@ -129,7 +129,7 @@ main {
 }
 
 .title-container {
-  margin: auto;
+  margin: 16px auto;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -197,10 +197,7 @@ main {
   display: none;
 }
 
-.future-product {
-  background-color: #f2f2f2;
-  margin: 0;
-}
+
 
 .each-product {
   display: flex;

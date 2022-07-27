@@ -81,7 +81,7 @@ header {
   flex-direction: row;
   column-gap: 5px;
   margin: 0 auto;
-  width: 80%;
+  width: 90%;
 }
 
 .program {
@@ -122,11 +122,17 @@ header {
   text-decoration: underline;
 }
 
+.future-product {
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 24px;
+}
+
 .product-container {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 24px;
-  width: 70%;
+  width: 90%;
   margin: 24px auto;
 }
 
