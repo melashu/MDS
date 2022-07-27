@@ -155,7 +155,7 @@ header {
   width: 50%;
   margin: 0 auto;
   font-size: 1.25em;
-  font-family: 'Lato' sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 
 .logo-description {
@@ -168,14 +168,14 @@ header {
   margin: 0 auto;
 }
 
-.abt-contact p{
+.abt-contact p {
   color: #fff;
-  font-family: 'Lato' sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 
-.abt-contact a{
+.abt-contact a {
   color: #fff;
-  font-family: 'Lato' sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 
 .past-event-description {
@@ -195,7 +195,7 @@ header {
   width: 100%;
 }
 
-footer{
+footer {
   margin-top: 50px;
 }
 
