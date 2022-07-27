@@ -36,7 +36,7 @@ Feel free to check the [issues page](https://github.com/melashu/My-Portfolio/iss
 ## Acknowledgments 
 - To Project Designer  [Cindy Shin in Behance](https://www.behance.net/adagio07) 
 - To creaters of [Icons8](icons8.com/icons)
-- To my coding partner [Amtresu](https://github.com/Amtresu) and my morning session temas. 
+- To my coding partner [Amtresu](https://github.com/Amtresu) and my morning session Team. 
 - To my Code Reviewer
 
 ## Screenshot 
