@@ -192,14 +192,6 @@ main {
   display: none;
 }
 
-.product-container {
-  display: flex;
-  flex-direction: column;
-
-  /* row-gap: 24px; */
-  padding: 24px;
-}
-
 .each-product {
   display: flex;
   column-gap: 24px;
