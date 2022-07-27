@@ -1,6 +1,7 @@
 .menu-icon {
   display: none;
 }
+
 .btn-close {
   display: none;
 }
@@ -20,6 +21,7 @@
   color: #fff;
   font-family: "Lato", sans-serif;
 }
+
 header {
   background-color: #fff;
 }
@@ -89,6 +91,7 @@ header {
   align-items: center;
   padding: 16px;
 }
+
 .program-title {
   font-family: "COCOGOOSE", sans-serif;
   text-align: center;
@@ -150,6 +153,7 @@ header {
   margin: 0 auto;
   font-size: 1.25em;
 }
+
 .logo-description {
   width: 40%;
   margin: 0 auto;
@@ -159,10 +163,12 @@ header {
   width: 30%;
   margin: 0 auto;
 }
+
 .past-event-description {
   width: 50%;
   margin: 0 auto;
 }
+
 .abt-product-container {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -183,6 +189,7 @@ header {
   background-color: #414246;
   color: #fff;
 }
+
 .footer-bottom p {
   width: 40%;
 }
