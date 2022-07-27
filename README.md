@@ -31,9 +31,9 @@
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/melashu/My-Portfolio/issues).
+Feel free to check the [issues page](https://github.com/melashu/Mount-Digital-Solution/issues).
 
-## Acknowledgments 
+## Acknowledgements
 - To Project Designer  [Cindy Shin in Behance](https://www.behance.net/adagio07) 
 - To creaters of [Icons8](icons8.com/icons)
 - To my coding partner [Amtresu](https://github.com/Amtresu) and my morning session Team. 
