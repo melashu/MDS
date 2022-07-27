@@ -1,4 +1,4 @@
-const mainProgram = document.getElementById("main-program");
+const futureProduct = document.getElementById("future-product");
 const productList = [
   {
     img: "../image/telebirrLogo.png",
@@ -19,7 +19,7 @@ const productList = [
   {
     img: "../image/sekelaLogo.png",
     imgAlt: "Sekela",
-    title: "Sekela Commerece",
+    title: "Sekela",
     catagory: "E-commerece",
     description:
       "Sekela Commerece is a B2B and B2C platform, which connect buyers and sellers",
@@ -29,7 +29,8 @@ const productList = [
     imgAlt: "My-Ethiotel",
     title: "My-Ethiotel",
     catagory: "Telcom",
-    description: "My-Ethiotel is designed in 2018, It is used to recharge mobile air time",
+    description:
+      "My-Ethiotel is designed in 2018, It is used to recharge mobile air time",
   },
   {
     img: "../image/chat.png",
@@ -48,3 +49,18 @@ const productList = [
       "Fidle educational platform which is designed to teach kids about Amaharic language",
   },
 ];
+
+productList.forEach((product) => {
+  let eachProduct = ` <div class="each-product">
+                    <img src="${product["img"]}" alt="${product["imgAlt"]}">
+                    <div class="each-product-left ">
+                        <h4 class="product-title">${product["title"]}</h4>
+                        <h4 class="product-cat">${product["catagory"]}</h4>
+                        <p class="product-description">${product["description"]}</p>
+                    </div>
+
+                </div>`;
+    let programDom = new DOMParser().parseFromString(eachProduct, "text/html");
+    const pro = programDom.getElementsByClassName("each-product")[0];
+    futureProduct.appendChild(pro);
+});
