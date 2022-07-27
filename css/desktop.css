@@ -197,7 +197,7 @@ header {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 24px;
-  width: 80%;
+  width: 75%;
   margin: 0 auto;
 }
 
@@ -209,9 +209,18 @@ footer {
   margin-top: 50px;
 }
 
+.abt-partner{
+  display: none;
+}
+
 .footer-bottom {
   background-color: #f2f2f2;
   color: #414246;
+}
+
+.abt-footer-bottom{
+background-color: #2e2e2e;
+color: #fff;
 }
 
 .footer-bottom p {
