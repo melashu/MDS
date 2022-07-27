@@ -33,14 +33,14 @@ header {
 .nav-bar {
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
 }
 
 .nav-menu {
   display: flex;
   flex-direction: row;
-  column-gap: 80px;
+  column-gap: 50px;
   justify-content: center;
   align-items: center;
 }
@@ -60,6 +60,7 @@ header {
 .nav-menu-cc {
   border: 5px solid #ec5242;
   padding: 8px;
+  width: 25%;
 }
 
 .headline-section {
@@ -95,11 +96,13 @@ header {
 .program-title {
   font-family: "COCOGOOSE", sans-serif;
   text-align: center;
+  width: 100%;
 }
 
 .program-description {
   text-align: center;
   font-family: "Lato", sans-serif;
+  width: 100%;
 }
 
 .program:hover {
@@ -152,6 +155,7 @@ header {
   width: 50%;
   margin: 0 auto;
   font-size: 1.25em;
+  font-family: 'Lato' sans-serif;
 }
 
 .logo-description {
@@ -162,6 +166,16 @@ header {
 .abt-logo {
   width: 30%;
   margin: 0 auto;
+}
+
+.abt-contact p{
+  color: #fff;
+  font-family: 'Lato' sans-serif;
+}
+
+.abt-contact a{
+  color: #fff;
+  font-family: 'Lato' sans-serif;
 }
 
 .past-event-description {
@@ -181,13 +195,13 @@ header {
   width: 100%;
 }
 
-.partner {
-  display: none;
+footer{
+  margin-top: 50px;
 }
 
 .footer-bottom {
-  background-color: #414246;
-  color: #fff;
+  background-color: #f2f2f2;
+  color: #414246;
 }
 
 .footer-bottom p {
