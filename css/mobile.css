@@ -342,3 +342,9 @@ main {
   margin: 24px 100px;
   overflow-x: hidden;
 }
+
+.abt-footer-bottom {
+  background-color: #fff;
+  color: #2e2e2e;
+  font-family: 'Lato',sans-serif;
+}

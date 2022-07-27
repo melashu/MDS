@@ -15,7 +15,6 @@
   justify-content: flex-end;
   column-gap: 24px;
   padding-right: 192px;
-
 }
 
 .top-header a {
@@ -36,7 +35,6 @@ header {
   display: flex;
   flex-direction: row;
   padding-right: 178px;
-
 }
 
 .nav-menu {
@@ -209,7 +207,7 @@ footer {
   margin-top: 50px;
 }
 
-.abt-partner{
+.abt-partner {
   display: none;
 }
 
@@ -218,9 +216,11 @@ footer {
   color: #414246;
 }
 
-.abt-footer-bottom{
-background-color: #2e2e2e;
-color: #fff;
+.abt-footer-bottom {
+  background-color: #2e2e2e;
+  color: #fff;
+  font-family: 'Lato',sans-serif;
+
 }
 
 .footer-bottom p {
