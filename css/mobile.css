@@ -170,7 +170,10 @@ main {
 }
 
 .program-title {
-  color: rgb(238, 68, 68);
+  color: #ec5242;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 1.75em;
   width: 25%;
 }
 
@@ -274,7 +277,7 @@ main {
   font-size: 1em;
   color: #272a31;
   padding: 8px;
-  font-family: 'Lato', sans-serif;
+  font-family: "Lato", sans-serif;
 }
 
 .abt-contact p {
@@ -333,7 +336,6 @@ main {
 .product-container {
   display: grid;
   row-gap: 24px;
-  
 }
 
 .abt-product-container {
@@ -344,5 +346,5 @@ main {
 .abt-footer-bottom {
   background-color: #fff;
   color: #2e2e2e;
-  font-family: 'Lato',sans-serif;
+  font-family: "Lato", sans-serif;
 }
