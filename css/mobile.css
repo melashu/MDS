@@ -11,12 +11,19 @@ ul {
   list-style: none;
 }
 
+a {
+  text-decoration: none;
+}
+
 .top-header {
   display: none;
 }
 
 .btn-close {
-  display: none;
+  display: block;
+  padding: 24px;
+  font-size: 32px;
+  align-self: flex-end;
 }
 
 .menu-icon {
@@ -25,11 +32,26 @@ ul {
 
 .nav-bar {
   display: none;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.nav-menu {
+  display: flex;
+  flex-direction: column;
+  row-gap: 16px;
+  font-size: 1.5em;
+}
+
+.navbar-brand {
+  display: none;
 }
 
 main {
   width: 100%;
 }
+
 .headline-section {
   background-image: url("../image/mob-bac.png");
   background-size: cover;
@@ -220,7 +242,6 @@ main {
   align-items: center;
   background-color: #f2f2f2;
 }
-
 
 .abt-contact {
   font-size: 1em;

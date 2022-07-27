@@ -2,6 +2,14 @@
 .menu-icon {
   display: none;
 }
+.btn-close{
+  display: none;
+}
+
+.mob-home{
+  display: none;
+}
+
 .top-header {
   display: flex;
   justify-content: flex-end;
@@ -13,20 +21,24 @@
   color: #fff;
   font-family: "Lato", sans-serif;
 }
-
-
-
 header {
   background-color: #fff;
 }
 
+.navbar-brand{
+  display: block;
+}
+
 .nav-bar {
   display: flex;
+  flex-direction: row;
   justify-content: space-around;
+  align-items: center;
 }
 
 .nav-menu {
   display: flex;
+  flex-direction: row;
   column-gap: 80px;
   justify-content: center;
   align-items: center;
