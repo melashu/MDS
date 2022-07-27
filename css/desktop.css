@@ -1,12 +1,11 @@
-
 .menu-icon {
   display: none;
 }
-.btn-close{
+.btn-close {
   display: none;
 }
 
-.mob-home{
+.mob-home {
   display: none;
 }
 
@@ -25,7 +24,7 @@ header {
   background-color: #fff;
 }
 
-.navbar-brand{
+.navbar-brand {
   display: block;
 }
 
@@ -42,6 +41,10 @@ header {
   column-gap: 80px;
   justify-content: center;
   align-items: center;
+}
+
+.nav-menu li {
+  border: none;
 }
 
 .nav-menu a {
@@ -110,6 +113,7 @@ header {
   margin: 0 auto;
   padding: 24px;
   color: #f7f7f7;
+  text-decoration: underline;
 }
 
 .product-container {
@@ -127,62 +131,58 @@ header {
   justify-content: center;
 }
 
-.abt-headline-section{
-background-image: url('../image/abt-back-me.png');
+.abt-headline-section {
+  background-image: url("../image/abt-back-me.png");
 }
 
-.abt-headline-greeting{
-    display: none;
+.abt-headline-greeting {
+  display: none;
 }
 
-.abt-headline-title{
-    text-align: center;
-    width: 50%;
-    margin: 0 auto;
+.abt-headline-title {
+  text-align: center;
+  width: 50%;
+  margin: 0 auto;
 }
 
-.abt-headline-description{
-    width: 50%;
-    margin: 0 auto;
-    font-size: 1.25em;
+.abt-headline-description {
+  width: 50%;
+  margin: 0 auto;
+  font-size: 1.25em;
 }
-.logo-description{
-    width: 40%;
-    margin: 0 auto;
+.logo-description {
+  width: 40%;
+  margin: 0 auto;
 }
 
 .abt-logo {
-    width: 30%;
-    margin: 0 auto;
+  width: 30%;
+  margin: 0 auto;
 }
-.past-event-description{
-    width: 50%;
-    margin: 0 auto;
+.past-event-description {
+  width: 50%;
+  margin: 0 auto;
 }
-.abt-product-container{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 24px;
-    width: 80%;
-    margin: 0 auto;
-}
-
-.abt-product-container img{
-    width: 100%;
+.abt-product-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+  width: 80%;
+  margin: 0 auto;
 }
 
-.partner{
-    display: none;
+.abt-product-container img {
+  width: 100%;
 }
 
-.footer-bottom{
+.partner {
+  display: none;
+}
+
+.footer-bottom {
   background-color: #414246;
   color: #fff;
 }
-.footer-bottom p{
-    width: 40%;
+.footer-bottom p {
+  width: 40%;
 }
-
-
-
-
