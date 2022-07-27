@@ -85,7 +85,7 @@ main {
 
 .headline-title {
   color: #ec5242;
-  font-size: 40px;
+  font-size: 50px;
   font-family: "COCOGOOSE", sans-serif;
   font-weight: 400;
   text-transform: uppercase;
@@ -120,8 +120,6 @@ main {
 .main-program-section {
   background-color: #272a32;
   background-image: url("../image/program-back.png");
-
-  /* background-size: ; */
   padding: 24px;
   color: #fff;
   line-height: 1.5;

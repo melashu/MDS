@@ -70,9 +70,6 @@ header {
   background-image: url("../image/main-background-img.png");
 }
 
-.headline-title {
-  width: 40%;
-}
 
 .headline-description {
   width: 60%;
@@ -155,8 +152,7 @@ header {
 
 .abt-headline-title {
   text-align: center;
-  width: 50%;
-  margin: 0 auto;
+ 
 }
 
 .abt-headline-description {
