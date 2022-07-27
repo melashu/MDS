@@ -22,6 +22,8 @@ a {
 .btn-close {
   display: block;
   padding: 24px;
+  font-family: "COCOGOOSE", sans-serif;
+  font-weight: 400;
   font-size: 32px;
   align-self: flex-end;
 }
@@ -40,8 +42,19 @@ a {
 .nav-menu {
   display: flex;
   flex-direction: column;
-  row-gap: 16px;
-  font-size: 1.5em;
+  row-gap: 24px;
+  width: 85%;
+}
+
+.nav-menu li {
+  border-bottom: 2px solid #414246;
+  padding: 16px;
+  font-family: "COCOGOOSE", sans-serif;
+}
+
+.nav-menu a {
+  font-size: 2em;
+  color: #272a31;
 }
 
 .navbar-brand {
