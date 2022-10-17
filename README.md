@@ -1,6 +1,6 @@
 # Mount-Digital-Solution Capstone Project 
 
-> This project is bulit to fulfill the Module 1 capstone project. The website demonstrate a services delivered by a technology firm called Mount Digital solution. It is accessible in both mobile and desktop devices. 
+This website demonstrate a services delivered by a technology firm called Mount Digital solution. It is accessible in both mobile and desktop devices.
 
 ## **The project is Built with**
 - **HTML**
