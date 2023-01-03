@@ -267,9 +267,10 @@ main {
 
 .footer-bottom {
   display: flex;
-  column-gap: 50px;
+  flex-direction: column;
+  column-gap: 12px;
   margin: 0 auto;
-  padding: 24px;
+  padding: 5px;
   justify-content: center;
   align-items: center;
   background-color: #f2f2f2;
