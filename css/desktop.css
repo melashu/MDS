@@ -141,6 +141,12 @@ header {
   justify-content: center;
 }
 
+.navbar img {
+  width: 180px;
+  background-color: #272a31;
+  height: 120px;
+}
+
 .abt-headline-section {
   background-image: url("../image/abt-back-me.png");
 }
@@ -208,6 +214,7 @@ footer {
 .footer-bottom {
   background-color: #f2f2f2;
   color: #414246;
+  text-align: center;
 }
 
 .abt-footer-bottom {
