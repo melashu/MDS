@@ -1,13 +1,11 @@
 # MDS
-The MDS demonstrate a services delivered by a technology firm called Mount Digital solution. It is accessible in both mobile and desktop devices.
-<a name="readme-top"></a>
 
+<a name="readme-top"></a>
 
 # 📗 Table of Contents
 
-- [Mount-Digital-Solution](#mount-digital-solution)
+- [MDS](#mds)
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Mount-Digital-Solution ](#-mount-digital-solution-)
   - [🛠 Built With ](#-built-with-)
   - [Key Features ](#key-features-)
   - [💻 Getting Started ](#-getting-started-)
@@ -22,9 +20,9 @@ The MDS demonstrate a services delivered by a technology firm called Mount Digit
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
 
-# 📖 Mount-Digital-Solution <a name="about-project"></a>
+# 📖 mds <a name="about-project"></a>
 
-This website designed for a company called Mount Digital solution. This website enables the organization to share their 
+This website designed for a company called MDS. This website enables the organization to share their 
 existing products and main service they provide to their customer.
 
 ## 🛠 Built With <a name="built-with"></a>
