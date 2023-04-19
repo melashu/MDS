@@ -1,4 +1,5 @@
-# Mount-Digital-Solution 
+# MDS
+The MDS demonstrate a services delivered by a technology firm called Mount Digital solution. It is accessible in both mobile and desktop devices.
 <a name="readme-top"></a>
 
 
@@ -83,7 +84,7 @@ In the future I need to improve the following features.
 - [ ] **Add dynamics feature of the app.**
 
 ## 🔴 Live Demo
-[Go Live](https://melashu.github.io/Mount-Digital-Solution/)
+[Go Live](https://melashu.github.io/MDS/)
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - To Microverse crew.
