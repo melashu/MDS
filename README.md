@@ -54,11 +54,11 @@ Clone this repository to your desired folder:
 
 Open your terminal and run :-
 
-`git clone https://github.com/melashu/Mount-Digital-Solution.git`
+`git clone https://github.com/melashu/MDS.git`
 
 **Then run**
 
-cd `Mount-Digital-Solution`
+cd `MDS`
 
 
 ### Usage
@@ -105,7 +105,7 @@ In the future I need to improve the following features.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page.](https://github.com/melashu/Mount-Digital-Solution/issues)
+Feel free to check the [issues page.](https://github.com/melashu/MDS/issues)
 
 ## ⭐️ Show your support <a name="support"></a>
 
