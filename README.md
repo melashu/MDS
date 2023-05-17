@@ -36,10 +36,9 @@ existing products and main service they provide to their customer.
 
 > The key features of this app.
 
--  Display the list of products.
--  Display main programs they provide.
--  Display lates events.
--  Accessible for multiple devises.
+-  Show the products and services that the company offers.
+-  Display the company's upcoming events.
+-  Make the website accessible on all devices, including computers, tablets, and smartphones.
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
