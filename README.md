@@ -22,8 +22,7 @@
 
 # 📖 mds <a name="about-project"></a>
 
-This website designed for a company called MDS. This website enables the organization to share their 
-existing products and main service they provide to their customer.
+The MDS company website features a variety of information, including their latest products, upcoming and past events, and their partners.
 
 ## 🛠 Built With <a name="built-with"></a>
 
