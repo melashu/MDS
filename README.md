@@ -85,7 +85,6 @@ In the future I need to improve the following features.
 
 - To Microverse crew.
 - To Project Designer  [Cindy Shin in Behance](https://www.behance.net/adagio07) 
-- To creaters of [Icons8](icons8.com/icons)
 - To my coding partner [Amtresu](https://github.com/Amtresu) and my morning session Team. 
 - To my Code Reviewer
 
